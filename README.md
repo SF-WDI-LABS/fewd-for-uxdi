@@ -11,8 +11,8 @@ Developers and UX researchers and designers are teammates with the same goal - t
 <!-- specific/measurable goal for students to achieve -->
 *After this workshop, students will be able to:*
 
-- read / write basic HTML.
-- read / write basic CSS.
+- explore and edit the HTML of your favorite websites using the Chrome developer tools.
+- explore and edit the CSS of your favorite websites using the Chrome developer tools.
 - better approach conversations with developers.
 
 ## Reading HTML/CSS - The Developer Tools

@@ -50,3 +50,15 @@ Resource: [HTML cheat sheet](https://github.com/SF-WDI-LABS/cheatsheets/blob/mas
 3. Using these two tools, spend 10 minutes exploring some of your favorite websites. Make at least 3 observations and generate at least one question about CSS.
 
 Resource: [CSS cheatsheet](https://github.com/SF-WDI-LABS/cheatsheets/blob/master/basic_css_cheat_sheet.pdf)
+
+## Tips for working with developers
+
+### 1. Recognize that you both have the same goal: to build the best product for your customers
+
+
+### 2. Bring data to the conversation
+
+
+### 3. Ask about technical feasibility
+
+
